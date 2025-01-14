@@ -257,11 +257,6 @@ deactivate
 </pre>
 
 
-# 10. Contact me
-
-
-
-
 
 
 
