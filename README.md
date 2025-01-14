@@ -258,7 +258,6 @@ deactivate
 
 
 # 10. Contact me
-- Github: https://github.com/allmeidaapedro
 - Gmail: pedrooalmeida.net@gmail.com
 
 
