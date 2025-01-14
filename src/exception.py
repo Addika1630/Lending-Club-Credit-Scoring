@@ -10,6 +10,7 @@ Importing the libraries.
 import sys
 from src.logger import logging
 
+
 def detailed_error_msg(error, error_details: sys):
     '''
     Generate a detailed error message including file name, line number, and error message.
