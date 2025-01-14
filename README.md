@@ -258,7 +258,6 @@ deactivate
 
 
 # 10. Contact me
-- Linkedin: https://www.linkedin.com/in/pedro-almeida-ds/
 - Github: https://github.com/allmeidaapedro
 - Gmail: pedrooalmeida.net@gmail.com
 
