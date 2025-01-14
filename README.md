@@ -258,7 +258,6 @@ deactivate
 
 
 # 10. Contact me
-- Gmail: pedrooalmeida.net@gmail.com
 
 
 
